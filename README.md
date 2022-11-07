@@ -14,20 +14,20 @@ These are:-
 4.Pandas<br>
 
 <h2>Outputs:</h2>
-Part 1:Colour Detection
+<h3>Part 1:Colour Detection</h3>
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
 </p>
 
 
 
-Part 2:Image Filtering
+<h3>Part 2:Image Filtering</h3>
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
 </p>
 
 
-Part 3:Conversion of RBG image to Black and White image.
+<h3>Part 3:Conversion of RBG image to Black and White image.</h3>
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
 </p>
