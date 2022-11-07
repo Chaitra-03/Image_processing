@@ -27,6 +27,26 @@ These are:-
 </p>
 
 
+p align="center">
+  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+</p>
+
+
+p align="center">
+  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+</p>
+
+
+p align="center">
+  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+</p>
+
+
+p align="center">
+  <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
+</p>
+
+
 <h3>Part 3:Conversion of RBG image to Black and White image.</h3>
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
