@@ -8,10 +8,10 @@ These are:-
 
 
 <h1>Libraries used:</h1>
-1.Matplotlib
-2.Scikit-image
-3.Numpy
-4.Pandas
+1.Matplotlib<br>
+2.Scikit-image<br>
+3.Numpy<br>
+4.Pandas<br>
 
 <h1>Outputs:</h1>
 Part 1:Colour Detection
