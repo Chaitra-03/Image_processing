@@ -7,13 +7,13 @@ These are:-
 
 
 
-<h1>Libraries used:</h1>
+<h2>Libraries used:</h2>
 1.Matplotlib<br>
 2.Scikit-image<br>
 3.Numpy<br>
 4.Pandas<br>
 
-<h1>Outputs:</h1>
+<h2>Outputs:</h2>
 Part 1:Colour Detection
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
